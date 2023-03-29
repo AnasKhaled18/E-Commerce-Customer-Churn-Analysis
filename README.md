@@ -1,5 +1,5 @@
 # E-Commerce-Churn-Analysis
-Figuring out customer's behaviour in order to identify the key indicators of customer's churn status, Moreover, Build a classification model that predicts whether the customer would churn or otherwise..
+Figuring out customer's behaviour in order to identify the key indicators of customer's churn status, Moreover, Build a classification model that predicts whether the customer would churn or otherwise.
 
 ### Tech Stacks:
 - Python
