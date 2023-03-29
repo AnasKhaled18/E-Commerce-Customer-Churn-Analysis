@@ -8,7 +8,8 @@ Figuring out customer's behaviour in order to identify the key indicators of cus
 - Matplotlib.pyplot (Library)
 - Seaborn (Library)
 - Sklearn (Library)
-- Excel ([Dashboard](https://github.com/mustafaa7med/E-Commerce-Churn-Analysis/blob/main/OnlineRetail-Dashboard.xlsx) and Analysis)
+- Excel ([Dashboard](https://github.com/AnasKhaled18/E-Commerce-Customer-Churn-Analysis/tree/main/Dashboards) and Analysis)
+- PowerBI ([Dashboard](https://github.com/AnasKhaled18/E-Commerce-Customer-Churn-Analysis/tree/main/Dashboards) and Analysis)
 
 ### Machine Learning Models:
 - Decision Tree
@@ -20,7 +21,7 @@ Figuring out customer's behaviour in order to identify the key indicators of cus
 - Ziad Ahmed ([Email](mailto:zaidahmed12300@gmail.com), [GitHub](https://github.com/ZiadAhmed10))
 
 ### Dataset:
-You can download the dataset from the repo files or by clicking [Here](https://github.com/mustafaa7med/E-Commerce-Churn-Analysis/blob/main/E%20Commerce%20Dataset.csv)
+You can download the dataset from the repo files or by clicking [Here](https://github.com/AnasKhaled18/E-Commerce-Customer-Churn-Analysis/tree/main/Dataset)
 
 
 |Column| Description |
